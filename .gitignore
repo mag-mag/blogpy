@@ -1,2 +1,12 @@
+#virtual env
 env/
+
+
+#visual studio setting
 .vscode/
+
+#data base sqlite
+db.sqlite3
+
+#migration 
+blog/migration/
